@@ -1,0 +1,165 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ogretmen_Asistan" GeneratedClassName="Ayarlarim">
+  <Profiles />
+  <Settings>
+    <Setting Name="zildosyayolu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="sayacdosyayolu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="heroname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Baybars KIZILKAYA</Value>
+    </Setting>
+    <Setting Name="ilkzil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">08:30</Value>
+    </Setting>
+    <Setting Name="ilkzilcikis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09:10</Value>
+    </Setting>
+    <Setting Name="ikizil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09:20</Value>
+    </Setting>
+    <Setting Name="ikizilcikis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10:00</Value>
+    </Setting>
+    <Setting Name="uczil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10:10</Value>
+    </Setting>
+    <Setting Name="uczilcikis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10:50</Value>
+    </Setting>
+    <Setting Name="dortzil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11:00</Value>
+    </Setting>
+    <Setting Name="dortzilcikis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11:40</Value>
+    </Setting>
+    <Setting Name="beszil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12:20</Value>
+    </Setting>
+    <Setting Name="beszilcikis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13:00</Value>
+    </Setting>
+    <Setting Name="altizil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13:10</Value>
+    </Setting>
+    <Setting Name="altizilcikis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13:50</Value>
+    </Setting>
+    <Setting Name="zilchek" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="zilses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Anaform" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Yarismaform" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Passward" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Oncelik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="kisaZil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="zildosyayolu2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="pz1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sosyal Bilgiler</Value>
+    </Setting>
+    <Setting Name="pz2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="pz3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="pz4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Matematik</Value>
+    </Setting>
+    <Setting Name="pz5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Matematik</Value>
+    </Setting>
+    <Setting Name="pz6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Müzik</Value>
+    </Setting>
+    <Setting Name="sl1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sosyal Bilgiler</Value>
+    </Setting>
+    <Setting Name="sl2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sosyal Bilgiler</Value>
+    </Setting>
+    <Setting Name="sl3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Matematik</Value>
+    </Setting>
+    <Setting Name="sl4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="sl5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="sl6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Oyun ve Fiziki Etkinlik</Value>
+    </Setting>
+    <Setting Name="cr1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Din Kültürü ve Ahlak Bilgisi</Value>
+    </Setting>
+    <Setting Name="cr2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Din Kültürü ve Ahlak Bilgisi</Value>
+    </Setting>
+    <Setting Name="cr3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fen Bilimleri</Value>
+    </Setting>
+    <Setting Name="cr4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="cr5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="cr6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Oyun ve Fiziki Etkinlik</Value>
+    </Setting>
+    <Setting Name="pr1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yabancı Dil</Value>
+    </Setting>
+    <Setting Name="pr2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yabancı Dil</Value>
+    </Setting>
+    <Setting Name="pr3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fen Bilimleri</Value>
+    </Setting>
+    <Setting Name="pr4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fen Bilimleri</Value>
+    </Setting>
+    <Setting Name="pr5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">İnsan Hakları Yurttaşlık ve Demokrasi</Value>
+    </Setting>
+    <Setting Name="pr6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">İnsan Hakları Yurttaşlık ve Demokrasi</Value>
+    </Setting>
+    <Setting Name="cm1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="cm2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="cm3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Matematik</Value>
+    </Setting>
+    <Setting Name="cm4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Matematik</Value>
+    </Setting>
+    <Setting Name="cm5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trafik Güvenliği</Value>
+    </Setting>
+    <Setting Name="cm6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Görsel Sanatlar</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

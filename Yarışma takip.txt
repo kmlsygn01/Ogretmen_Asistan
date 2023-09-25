@@ -1,0 +1,574 @@
+
+            int //z1, z11, z2, z22, z3, z33, z4, z44,/*dersler*/
+                //a1, a11, a2, a22, a3, a33,/*derstakip*/
+                //x1, x11, x2, x22,/*soru*/
+                //c1, c11, c2, c22,/*ekstra*/
+                bigitop = 0, bigitopex = 0,
+                v1 = 0, v11 = 0, v2 = 0, v22 = 0, temitop = 0, temitopex = 0,/*mendil,týrnak*/
+                b1 = 0, b11 = 0, b2 = 0, b22 = 0, b3 = 0, b33 = 0, b4 = 0, b44 = 0, davatop = 0, davatopex = 0,/*davranýþ*/
+                geneltop = 0, geneltopex = 0;
+
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 1");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    ocaktemizlikarti.Text = Convert.ToString(temitop);
+                    ocaktemizlikeksi.Text = Convert.ToString(temitopex);
+                    ocakdavranisarti.Text = Convert.ToString(davatop);
+                    ocakdavraniseksi.Text = Convert.ToString(davatopex);
+                    ocakbilgiarti.Text = Convert.ToString(bigitop);
+                    ocakbilgieksi.Text = Convert.ToString(bigitopex);
+                    ocaktoplamarti.Text = Convert.ToString(geneltop);
+                    ocaktoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 2");
+                artieksiGrid.Refresh();
+
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    subattemizlikarti.Text = Convert.ToString(temitop);
+                    subattemizlikeksi.Text = Convert.ToString(temitopex);
+                    subatdavranisarti.Text = Convert.ToString(davatop);
+                    subatdavraniseksi.Text = Convert.ToString(davatopex);
+                    subatbilgiarti.Text = Convert.ToString(bigitop);
+                    subatbilgieksi.Text = Convert.ToString(bigitopex);
+                    subattoplamarti.Text = Convert.ToString(geneltop);
+                    subattoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 3");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    marttemizlikarti.Text = Convert.ToString(temitop);
+                    marttemizlikeksi.Text = Convert.ToString(temitopex);
+                    martdavranisarti.Text = Convert.ToString(davatop);
+                    martdavraniseksi.Text = Convert.ToString(davatopex);
+                    martbilgiarti.Text = Convert.ToString(bigitop);
+                    martbilgieksi.Text = Convert.ToString(bigitopex);
+                    marttoplamarti.Text = Convert.ToString(geneltop);
+                    marttoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 4");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    nisantemizlikarti.Text = Convert.ToString(temitop);
+                    nisantemizlikeksi.Text = Convert.ToString(temitopex);
+                    nisandavranisarti.Text = Convert.ToString(davatop);
+                    nisandavraniseksi.Text = Convert.ToString(davatopex);
+                    nisanbilgiarti.Text = Convert.ToString(bigitop);
+                    nisanbilgieksi.Text = Convert.ToString(bigitopex);
+                    nisantoplamarti.Text = Convert.ToString(geneltop);
+                    nisantoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 5");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    mayistemizlikarti.Text = Convert.ToString(temitop);
+                    mayistemizlikeksi.Text = Convert.ToString(temitopex);
+                    mayisdavranisarti.Text = Convert.ToString(davatop);
+                    mayisdavraniseksi.Text = Convert.ToString(davatopex);
+                    mayisbilgiarti.Text = Convert.ToString(bigitop);
+                    mayisbilgieksi.Text = Convert.ToString(bigitopex);
+                    mayistoplamarti.Text = Convert.ToString(geneltop);
+                    mayistoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 6");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    hazirantemizlikarti.Text = Convert.ToString(temitop);
+                    hazirantemizlikeksi.Text = Convert.ToString(temitopex);
+                    hazirandavranisarti.Text = Convert.ToString(davatop);
+                    hazirandavraniseksi.Text = Convert.ToString(davatopex);
+                    haziranbilgiarti.Text = Convert.ToString(bigitop);
+                    haziranbilgieksi.Text = Convert.ToString(bigitopex);
+                    hazirantoplamarti.Text = Convert.ToString(geneltop);
+                    hazirantoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 7");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    temmuztemizlikarti.Text = Convert.ToString(temitop);
+                    temmuztemizlikeksi.Text = Convert.ToString(temitopex);
+                    temmuzdavranisarti.Text = Convert.ToString(davatop);
+                    temmuzdavraniseksi.Text = Convert.ToString(davatopex);
+                    temmuzbilgiarti.Text = Convert.ToString(bigitop);
+                    temmuzbilgieksi.Text = Convert.ToString(bigitopex);
+                    temmuztoplamarti.Text = Convert.ToString(geneltop);
+                    temmuztoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+            try
+            {
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 8");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    agustostemizlikarti.Text = Convert.ToString(temitop);
+                    agustostemizlikeksi.Text = Convert.ToString(temitopex);
+                    agustosdavranisarti.Text = Convert.ToString(davatop);
+                    agustosdavraniseksi.Text = Convert.ToString(davatopex);
+                    agustosbilgiarti.Text = Convert.ToString(bigitop);
+                    agustosbilgieksi.Text = Convert.ToString(bigitopex);
+                    agustostoplamarti.Text = Convert.ToString(geneltop);
+                    agustostoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+                try{
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 9");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    eylultemizlikarti.Text = Convert.ToString(temitop);
+                    eylultemizlikeksi.Text = Convert.ToString(temitopex);
+                    eyluldavranisarti.Text = Convert.ToString(davatop);
+                    eyluldavraniseksi.Text = Convert.ToString(davatopex);
+                    eylulbilgiarti.Text = Convert.ToString(bigitop);
+                    eylulbilgieksi.Text = Convert.ToString(bigitopex);
+                    eylultoplamarti.Text = Convert.ToString(geneltop);
+                    eylultoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+                try{
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 10");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    ekimtemizlikarti.Text = Convert.ToString(temitop);
+                    ekimtemizlikeksi.Text = Convert.ToString(temitopex);
+                    ekimdavranisarti.Text = Convert.ToString(davatop);
+                    ekimdavraniseksi.Text = Convert.ToString(davatopex);
+                    ekimbilgiarti.Text = Convert.ToString(bigitop);
+                    ekimbilgieksi.Text = Convert.ToString(bigitopex);
+                    ekimtoplamarti.Text = Convert.ToString(geneltop);
+                    ekimtoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+                try{
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 11");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    kasimtemizlikarti.Text = Convert.ToString(temitop);
+                    kasimtemizlikeksi.Text = Convert.ToString(temitopex);
+                    kasimdavranisarti.Text = Convert.ToString(davatop);
+                    kasimdavraniseksi.Text = Convert.ToString(davatopex);
+                    kasimbilgiarti.Text = Convert.ToString(bigitop);
+                    kasimbilgieksi.Text = Convert.ToString(bigitopex);
+                    kasimtoplamarti.Text = Convert.ToString(geneltop);
+                    kasimtoplameksi.Text = Convert.ToString(geneltopex);
+                }
+            }
+            catch
+            { ; }
+                try{
+                anabindingsource.Filter = string.Format("Sirano = '{0}'", ayliksonuc_no.Text + "ay = 12");
+                artieksiGrid.Refresh();
+                if (artieksiGrid.RowCount > 1)
+                {
+
+                    for (int index = 0; index <= artieksiGrid.RowCount - 1; index++)
+                    {
+                        bigitop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[26].Value);
+                        bigitopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[27].Value);
+
+                        v1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[28].Value);
+                        v11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[29].Value);
+                        v2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[30].Value);
+                        v22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[31].Value);
+
+                        b1 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[32].Value);
+                        b11 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[33].Value);
+                        b2 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[34].Value);
+                        b22 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[35].Value);
+                        b3 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[36].Value);
+                        b33 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[37].Value);
+                        b4 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[38].Value);
+                        b44 += Convert.ToInt32(artieksiGrid.Rows[index].Cells[39].Value);
+
+                        geneltop += Convert.ToInt32(artieksiGrid.Rows[index].Cells[42].Value);
+                        geneltopex += Convert.ToInt32(artieksiGrid.Rows[index].Cells[43].Value);
+                    }
+                    temitop = v1 + v2;
+                    temitopex = v2 + v22;
+
+                    davatop = b1 + b2 + b3 + b4;
+                    davatopex = b11 + b22 + b33 + b44;
+
+                    araliktemizlikarti.Text = Convert.ToString(temitop);
+                    araliktemizlikeksi.Text = Convert.ToString(temitopex);
+                    aralikdavranisarti.Text = Convert.ToString(davatop);
+                    aralikdavraniseksi.Text = Convert.ToString(davatopex);
+                    aralikbilgiarti.Text = Convert.ToString(bigitop);
+                    aralikbilgieksi.Text = Convert.ToString(bigitopex);
+                    araliktoplamarti.Text = Convert.ToString(geneltop);
+                    araliktoplameksi.Text = Convert.ToString(geneltopex);
+
+                }
+                anabindingsource.Filter = string.Format("");
+                artieksiGrid.Refresh();
+            }
+            catch
+            { ; }
