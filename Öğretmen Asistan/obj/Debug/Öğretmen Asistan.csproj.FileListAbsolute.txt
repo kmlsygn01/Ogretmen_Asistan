@@ -1,0 +1,107 @@
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Debug\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Debug\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Ogretmen_Asistan.Properties.Resources.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Öğretmen Asistan.csproj.GenerateResource.Cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Ogretmen_Asistan.Saatformu.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Ogretmen_Asistan.Anaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Debug\Öğretmen Asistan.exe.config
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Ogretmen_Asistan.kim50puanister.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Debug\DB.mdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Debug\Ogretmen_Asistan.Yarismaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe.config
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Anaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Yarismaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.kim50puanister.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Saatformu.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Properties.Resources.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.GenerateResource.Cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\DB.mdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe.config
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.exe
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.pdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\DB.mdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.pdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Anaform.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Yarismaform.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.kim50puanister.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Saatformu.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Properties.Resources.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.GenerateResource.Cache
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Ayarlar.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Design.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csprojResolveAssemblyReference.cache
+E:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe.config
+E:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.exe
+E:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.pdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Interop.LCC11.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Interop.LCC11.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.ResolveComReference.cache
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe.config
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Interop.LCC11.dll
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.ResolveComReference.cache
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.exe
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.pdb
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\DB.mdb
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.pdb
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Design.dll
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.dll
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Fonts.dll
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Interop.LCC11.dll
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csprojResolveAssemblyReference.cache
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Anaform.resources
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Ayarlar.resources
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Yarismaform.resources
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.kim50puanister.resources
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Saatformu.resources
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Properties.Resources.resources
+D:\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.GenerateResource.Cache
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe.config
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.ResolveComReference.cache
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.exe
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.pdb
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\DB.mdb
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.pdb
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.dll
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csprojResolveAssemblyReference.cache
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Anaform.resources
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Ayarlar.resources
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Yarismaform.resources
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.kim50puanister.resources
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Saatformu.resources
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Properties.Resources.resources
+C:\Users\Arch\Documents\Visual Studio 2012\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.GenerateResource.Cache
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\DB.mdb
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe.config
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.exe
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\Öğretmen Asistan.pdb
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Design.dll
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.dll
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Debug\MetroFramework.Fonts.dll
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csprojAssemblyReference.cache
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.ResolveComReference.cache
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Anaform.resources
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Ayarlar.resources
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Yarismaform.resources
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.kim50puanister.resources
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Saatformu.resources
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Ogretmen_Asistan.Properties.Resources.resources
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.GenerateResource.cache
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.CoreCompileInputs.cache
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.csproj.CopyComplete
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.exe
+F:\kem\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Debug\Öğretmen Asistan.pdb

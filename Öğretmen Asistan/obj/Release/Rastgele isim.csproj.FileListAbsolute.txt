@@ -1,0 +1,12 @@
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\Rastgele isim.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\Rastgele isim.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Rastgele_isim.Properties.Resources.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Rastgele isim.csproj.GenerateResource.Cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Rastgele isim.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Rastgele isim.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Rastgele_isim.Anaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Rastgele_isim.Saatformu.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\MetroFramework.Design.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\MetroFramework.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\MetroFramework.Fonts.dll

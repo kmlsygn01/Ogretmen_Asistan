@@ -1,0 +1,46 @@
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Ogretmen_Asistan.Saatformu.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Ogretmen_Asistan.Properties.Resources.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Öğretmen Asistan.csproj.GenerateResource.Cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\MetroFramework.Design.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\MetroFramework.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\MetroFramework.Fonts.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Ogretmen_Asistan.Anaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Ogretmen_Asistan.Dersprogrami.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\obj\Release\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Rastgele isim\Rastgele isim\bin\Release\Öğretmen Asistan.exe.config
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\DB.mdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\Öğretmen Asistan.exe.config
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\Öğretmen Asistan.pdb
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\MetroFramework.Design.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\MetroFramework.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\bin\Release\MetroFramework.Fonts.dll
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Anaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Yarismaform.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.kim50puanister.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Saatformu.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Properties.Resources.resources
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Öğretmen Asistan.csproj.GenerateResource.Cache
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Öğretmen Asistan.exe
+D:\Documents and Settings\USER\Belgelerim\Visual Studio 2008\Projects\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Öğretmen Asistan.pdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\Öğretmen Asistan.exe.config
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Öğretmen Asistan.exe
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Öğretmen Asistan.pdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\DB.mdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\Öğretmen Asistan.exe
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\Öğretmen Asistan.pdb
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\MetroFramework.Design.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\MetroFramework.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\bin\Release\MetroFramework.Fonts.dll
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Anaform.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Ayarlar.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Yarismaform.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.kim50puanister.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Saatformu.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Ogretmen_Asistan.Properties.Resources.resources
+C:\Users\dante\Google Drive\Project\Öğretmen Asistan\Öğretmen Asistan\obj\Release\Öğretmen Asistan.csproj.GenerateResource.Cache
